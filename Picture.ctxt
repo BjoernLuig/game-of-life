@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Picture()
+comment1.params=width\ height\ prob
+comment1.target=void\ setMap(int,\ int,\ double)
+comment2.params=g
+comment2.target=void\ paint(java.awt.Graphics)
+comment3.params=
+comment3.target=Map\ getMap()
+numComments=4
